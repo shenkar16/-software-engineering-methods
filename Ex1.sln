@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "checkBox", "checkBox\checkBox.vcxproj", "{2CCDCAD1-76DB-495E-A80D-DF3E5CE605D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "textField", "textField\textField.vcxproj", "{6516154C-1C5A-4CAC-B84A-6C3C3C35ABB4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Label", "Label\Label.vcxproj", "{E5751E1E-D9D5-4D3A-93E8-24F5BE8202AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "radioList", "radioList\radioList.vcxproj", "{D30967C5-E74C-4410-88E8-37EC4F1BFA13}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ComboBox", "ComboBox\ComboBox.vcxproj", "{3AFBCA09-49B3-40DB-BF24-E636E1528247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CCDCAD1-76DB-495E-A80D-DF3E5CE605D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CCDCAD1-76DB-495E-A80D-DF3E5CE605D2}.Debug|Win32.Build.0 = Debug|Win32
+		{2CCDCAD1-76DB-495E-A80D-DF3E5CE605D2}.Release|Win32.ActiveCfg = Release|Win32
+		{2CCDCAD1-76DB-495E-A80D-DF3E5CE605D2}.Release|Win32.Build.0 = Release|Win32
+		{6516154C-1C5A-4CAC-B84A-6C3C3C35ABB4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6516154C-1C5A-4CAC-B84A-6C3C3C35ABB4}.Debug|Win32.Build.0 = Debug|Win32
+		{6516154C-1C5A-4CAC-B84A-6C3C3C35ABB4}.Release|Win32.ActiveCfg = Release|Win32
+		{6516154C-1C5A-4CAC-B84A-6C3C3C35ABB4}.Release|Win32.Build.0 = Release|Win32
+		{E5751E1E-D9D5-4D3A-93E8-24F5BE8202AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5751E1E-D9D5-4D3A-93E8-24F5BE8202AB}.Debug|Win32.Build.0 = Debug|Win32
+		{E5751E1E-D9D5-4D3A-93E8-24F5BE8202AB}.Release|Win32.ActiveCfg = Release|Win32
+		{E5751E1E-D9D5-4D3A-93E8-24F5BE8202AB}.Release|Win32.Build.0 = Release|Win32
+		{D30967C5-E74C-4410-88E8-37EC4F1BFA13}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D30967C5-E74C-4410-88E8-37EC4F1BFA13}.Debug|Win32.Build.0 = Debug|Win32
+		{D30967C5-E74C-4410-88E8-37EC4F1BFA13}.Release|Win32.ActiveCfg = Release|Win32
+		{D30967C5-E74C-4410-88E8-37EC4F1BFA13}.Release|Win32.Build.0 = Release|Win32
+		{3AFBCA09-49B3-40DB-BF24-E636E1528247}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3AFBCA09-49B3-40DB-BF24-E636E1528247}.Debug|Win32.Build.0 = Debug|Win32
+		{3AFBCA09-49B3-40DB-BF24-E636E1528247}.Release|Win32.ActiveCfg = Release|Win32
+		{3AFBCA09-49B3-40DB-BF24-E636E1528247}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
